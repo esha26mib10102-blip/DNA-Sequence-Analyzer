@@ -26,8 +26,7 @@ The DNA Sequence Analyzer accepts a DNA sequence containing A, T, G and C and pe
 - Array partitioning
 - K-th element
 - Conditional statements
-- Loops
-- String operations
+  
 
 ## Features
 
@@ -74,3 +73,22 @@ No external libraries are required.
 4. Enter a DNA sequence using A, T, G and C.
 5. Enter the required K position.
 6. View the analysis results.
+
+   ## Example
+
+Input:
+
+ATGC
+
+K position:
+
+2
+
+Output includes:
+
+```text
+Length: 4
+K-th DNA base: T
+GC Content: 50.0 %
+Complementary DNA: TACG
+Reverse DNA: CGTA
