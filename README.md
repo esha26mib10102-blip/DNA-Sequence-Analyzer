@@ -74,21 +74,6 @@ No external libraries are required.
 5. Enter the required K position.
 6. View the analysis results.
 
-   ## Example
-
-Input:
-
-ATGC
-
-K position:
-
-2
-
-Output includes:
-
-```text
-Length: 4
-K-th DNA base: T
-GC Content: 50.0 %
-Complementary DNA: TACG
-Reverse DNA: CGTA
+Author:
+ESHA SAVITA 
+REG NO. 26MIB10102
